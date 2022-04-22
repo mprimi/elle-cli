@@ -10,6 +10,8 @@ change log follows the conventions of
 
 ### Added
 
+- Add a checker for comments test (#32).
+
 ### Fixed
 
 - Fixed defaults for anomalies in a README.

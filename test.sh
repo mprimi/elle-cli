@@ -38,3 +38,5 @@ $ELLE_CLI_BIN $ELLE_CLI_OPT set-full histories/jepsen/set_full.json
 
 $ELLE_CLI_BIN $ELLE_CLI_OPT bank histories/jepsen/bank.edn
 $ELLE_CLI_BIN $ELLE_CLI_OPT bank histories/jepsen/bank.json
+
+$ELLE_CLI_BIN $ELLE_CLI_OPT comments histories/custom/comments.edn
